@@ -11,7 +11,7 @@ import { CounterComponent } from '../components/counter/counter.component';
 })
 
 export class HomeComponent {
-  title = 'home title';
+  title = 'home title1';
 
   keyUpHandler(event: KeyboardEvent) {
     console.log("okeeee", event.key)
